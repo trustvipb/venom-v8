@@ -295,6 +295,36 @@ def help_command(message):
         "👑 **/owner** - Contact the owner 👑\n"
         "⏰ **/uptime** - Get bot uptime ⏱️\n"
         "📊 **/ping** - Check your connection ping 📈\n"
+        "🔱
+🔒 NO WARRANTIES**: This bot is provided "as is" and "as available", without warranty of any kind, express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+🚫 LIMITATION OF LIABILITY**: The owner and operator of this bot, @TRUSTVIP_MOD0 on Telegram and all4outgaming on Instagram, shall not be liable for any damages or losses arising from the use of this bot, including but not limited to direct, indirect, incidental, punitive, and consequential damages, including loss of profits, data, or business interruption.
+📚 COMPLIANCE WITH LAWS**: You are responsible for ensuring that your use of this bot complies with all applicable laws and regulations, including but not limited to laws related to intellectual property, data privacy, and cybersecurity.📊 DATA COLLECTION**: This bot may collect and use data and information about your usage, including but not limited to your IP address, device information, and usage patterns, and you consent to such collection and use.
+🤝 INDEMNIFICATION**: You agree to indemnify and hold harmless @TRUSTVIP_MOD0 on Telegram and trustvip, and its affiliates, officers, agents, and employees, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees) arising from or related to your use of this bot.
+🌐 THIRD-PARTY LINKS**: This bot may contain links to third-party websites or services, and you acknowledge that @TRUSTVIP_MOD0 on Telegram and all4outgaming on Instagram is not responsible for the content, accuracy, or opinions expressed on such websites or services.
+🔄 MODIFICATION AND DISCONTINUATION**: You agree that @TRUSTVIP_MOD0 on Telegram may modify or discontinue this bot at any time, without notice, and that you will not be entitled to any compensation or reimbursement for any losses or damages arising from such modification or discontinuation.
+👧 AGE RESTRICTION**: You acknowledge that this bot is not intended for use by minors, and that you are at least 18 years old (or the age of majority in your jurisdiction) to use this bot.
+🇮🇳 GOVERNING LAW**: You agree that this disclaimer and the terms and conditions of this bot will be governed by and construed in accordance with the laws of India, 🇮🇳, and that any disputes arising from or related to this bot will be resolved through binding arbitration in accordance with the rules of [Arbitration Association].
+📝 ENTIRE AGREEMENT**: This disclaimer constitutes the entire agreement between you and @TRUSTVIP_MOD0 1 on Telegram and trust vip on Instagram regarding your use of this bot, and supersedes all prior or contemporaneous agreements or understandings.
+👍 ACKNOWLEDGMENT**: By using this bot, you acknowledge that you have read, understood, and agree to be bound by these terms and conditions. If you do not agree to these terms and conditions, please do not use this bot.
+💥 ███████▀▀▀░░░░░░░▀▀▀███████  
+████▀░░░░░░░░░░░░░░░░░▀████  
+███│░░░░░░░░░░░░░░░░░░░│███  
+██▌│░░░░░░░░░░░░░░░░░░░│▐██  
+██░└┐░░░░░░░░░░░░░░░░░┌┘░██  
+██░░└┐░░░░░░░░░░░░░░░┌┘░░██  
+██░░┌┘▄▄▄▄▄░░░░░▄▄▄▄▄└┐░░██  
+██▌░│██████▌░░░▐██████│░▐██  
+███░│▐███▀▀░░▄░░▀▀███▌│░███  
+██▀─┘░░░░░░░▐█▌░░░░░░░└─▀██  
+██▄░░░▄▄▄▓░░▀█▀░░▓▄▄▄░░░▄██  
+████▄─┘██▌░░░░░░░▐██└─▄████  
+█████░░▐█─┬┬┬┬┬┬┬─█▌░░█████  
+████▌░░░▀┬┼┼┼┼┼┼┼┬▀░░░▐████  
+█████▄░░░└┴┴┴┴┴┴┴┘░░░▄█████  
+███████▄░░░░░░░░░░░▄███████  
+██████████▄▄▄▄▄▄▄██████████  
+███████████████████████████  
+👋 THANK YOU FOR READING! 👋\n"
         "🤝 **/help** - Show this help message 🤝"
     )
     bot.send_message(message.chat.id, help_message)
